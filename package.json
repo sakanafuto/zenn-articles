@@ -1,22 +1,18 @@
 {
-  "name": "zenn-articles",
+  "name": "zenn-contents",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "preview": "npx zenn preview"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sakanafuto/zenn-articles.git"
+    "url": "git+https://github.com/sakanafuto/zenn-contents.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "7ofu",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sakanafuto/zenn-articles/issues"
-  },
-  "homepage": "https://github.com/sakanafuto/zenn-articles#readme",
+  "homepage": "https://github.com/sakanafuto/zenn-contents",
   "dependencies": {
     "zenn-cli": "^0.1.121"
   }

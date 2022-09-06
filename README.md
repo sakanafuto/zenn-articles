@@ -1,3 +1,7 @@
-# Zenn CLI
+# 7ofu's zenn-contents
 
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+Migrated Zenn contents to local.
+
+## Zenn CLI
+
+- [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
