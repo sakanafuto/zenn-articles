@@ -4,4 +4,10 @@ Migrated Zenn contents to local.
 
 ## Zenn CLI
 
-- [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+```shell
+# new 
+$ npx zenn new:article --slug 記事のスラッグ --title タイトル --type tech --emoji 🦈
+
+# preview
+$ npx zenn preview 
+```
