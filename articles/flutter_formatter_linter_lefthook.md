@@ -483,6 +483,19 @@ https://github.com/evilmartians/lefthook
 
 こちらはおまけですが、`Flutter`の長ったらしいインポート文をいい感じに整形してくれるライブラリです。
 
+`pubspec.yaml`の`dev_dependencies`に追記しましょう。
+
+```dart
+dev_dependencies:
+  ...略...
+  import_sorter: ^4.6.0
+  ...略...
+```
+
+```shell
+$ flutter pub get
+```
+
 いいタイミングで見つけたので`Lefthook`にも記述してみました。
 
 https://github.com/fluttercommunity/import_sorter
