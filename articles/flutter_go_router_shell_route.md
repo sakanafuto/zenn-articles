@@ -1,7 +1,7 @@
 ---
-title: "shell_route"
-emoji: "🐬"
-type: "tech" # tech: 技術記事 / idea: アイデア
+title: 'shell_route'
+emoji: '🐬'
+type: 'tech' # tech: 技術記事 / idea: アイデア
 topics: []
 published: false
 ---
