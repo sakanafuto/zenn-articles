@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "preview": "npx zenn preview"
+    "preview": "npx zenn preview",
+    "prettier": "prettier --write ."
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "homepage": "https://github.com/sakanafuto/zenn-contents",
   "dependencies": {
     "zenn-cli": "^0.1.131"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
   }
 }
